@@ -7,3 +7,5 @@
 문제에 대한 설명은 각 Markdown에 수록되어 있습니다.
 
 - [백준](https://www.acmicpc.net/)
+---
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksnx3684)](https://solved.ac/ksnx3684)
